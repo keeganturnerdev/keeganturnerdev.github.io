@@ -27,7 +27,6 @@ Access your server on the command line and perform updates
 ```
 sudo apt update -y
 ```
-<br>
 
 Apply the available updates
 
@@ -41,7 +40,6 @@ Step 2 - Install Maria DB server
 ```
 sudo apt install mariadb-server
 ```
-<br>
 
 Once the installation completes, secure the database by running the below command and following the instructions
 
@@ -71,7 +69,6 @@ Restart MariaDB to allow the changes to take effect
 ```
 sudo systemctl restart mariadb.service
 ```
-<br>
 
 Confirm that MariaDB is running after the service restart
 ```
@@ -81,7 +78,7 @@ sudo systemctl status mariadb.service
 
 <br>
 
-***Create scripts to easily add users. delete users and create a database backup***
+***Create scripts to easily add users and delete users, and create a database backup***
 
 Step 1 
 
@@ -222,6 +219,7 @@ The script is set to dump the backup files in the directory `/usr/databases/mysq
 
 
 Summary:
+<br>
 `You have successfully configured MariaDB and added bash scripts to interact with the database.`
 
 Instead of manually running the scripts from the 'db_scripts' directory, we can create an 
