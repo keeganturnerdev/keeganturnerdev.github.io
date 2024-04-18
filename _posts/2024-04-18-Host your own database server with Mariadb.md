@@ -215,7 +215,7 @@ You should see the below output:
 
 `All database backups completed successfully.`
 
-The script is set to dump the backup files in the directory `/usr/databases/mysql_dumps`. This can be changed in the bash script as desired.
+The script is set to first create a directory for the backup files and then dump the backup files in the directory `/usr/databases/mysql_dumps`. This can be changed in the bash script as desired.
 
 
 Summary:
