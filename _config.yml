@@ -17,10 +17,10 @@ timezone:
 title: Keegan Turner # the main title
 
 
-tagline: Husband / Father / Tech Enthusiast # it will display as the sub-title
+tagline: Jesus Follower / Husband & Dad / Tech Enthusiast # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Blog, Cloud, keeganturnerdev, tech
+  Blog, Cloud, keeganturnerdev, tech, devops, platform engineering
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
