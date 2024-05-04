@@ -48,4 +48,4 @@ Ensure that port 8080 is allowed on your firewall.
 Access code-server on your-ip-address:8080 
 The password can be found in .config/code-server/config.yaml.
 
-Configure your code editor to your desired look and feel. Enjoy coding your projects on your self hosted code editor!
+Configure your code editor to your desired look and feel. Enjoy coding your projects on your self hosted code editor! 
